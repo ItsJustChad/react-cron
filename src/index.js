@@ -236,9 +236,9 @@ export default class ReactCron extends Component {
 
     return (
       <div className={classnames(className, 'cron-row')}>
-        <label className='control-label col-md-3'>Cron tab</label>
-        <div className='col-md-9'>
-          <div className='m-b-sm'>
+        <label className=''>Cron tab</label>
+        <div className=''>
+          <div className=''>
             Every
             <select value={selectedPeriod} onChange={this.onPeriodSelect()} className='m-l-xs'>
               {periodOptions.map((t,index) => {

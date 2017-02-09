@@ -17,10 +17,10 @@ render() {
 ```
 
 
-**TODO**
-1. Improve readme 
-2. Clean up code for getWeekComponent,getMonthComponent... merging them 
-3. Clean up API, making it a controlled component. (Add value/onChange parameters to control changes from outside)  
-4. Add styling/css  
+**TODO**   
+1. Improve readme    
+2. Clean up code for getWeekComponent,getMonthComponent... merging them   
+3. Clean up API, making it a controlled component. (Add value/onChange parameters to control changes from outside)      
+4. Add styling/css      
 
 *Work in Progress*
